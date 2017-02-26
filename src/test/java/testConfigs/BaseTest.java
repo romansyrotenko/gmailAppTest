@@ -1,3 +1,5 @@
+package testConfigs;
+
 import core.ConciseAPI;
 import org.junit.AfterClass;
 import org.openqa.selenium.WebDriver;

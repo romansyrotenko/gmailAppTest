@@ -3,6 +3,7 @@ import org.junit.Before;
 import org.junit.Test;
 import pages.EmailsPage;
 import pages.GmailPage;
+import testConfigs.BaseTest;
 
 import static data.TestDataConfig.gmailLogin;
 import static data.TestDataConfig.gmailPassword;
